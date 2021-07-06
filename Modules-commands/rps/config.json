@@ -1,0 +1,12 @@
+{
+  "name": "rps",
+  "description": "Jeu de Rock Paper Scissors (Pierre Feuille Ciseaux).",
+  "usage": "",
+  "category": "game",
+  "permission": [],
+  "aliases": [
+    "game",
+    "jeux",
+    "jeu"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "instagram",
+  "description": "Cette commande permée d'avoir des informations sur un compte Instagram",
+  "usage": "<Compte instagram>",
+  "category": "special",
+  "permission": [],
+  "aliases": ["insta"]
+}
+

@@ -1,0 +1,9 @@
+{
+  "name": "meme",
+  "description": "Envoie un meme.",
+  "usage": "",
+  "category": "game",
+  "permission": [],
+  "aliases": ["game", "jeux", "jeu"]
+}
+

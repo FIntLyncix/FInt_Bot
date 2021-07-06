@@ -1,0 +1,8 @@
+{
+  "name": "clear",
+  "description": "Cette commande permée de suprimé des message dans un channel.",
+  "usage": "<Nombre>",
+  "category": "serveur",
+  "permission": ["MANAGE_MESSAGES"],
+  "aliases": []
+}

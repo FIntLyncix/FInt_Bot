@@ -1,0 +1,2507 @@
+[
+    {
+        "word": "ANGLE"
+    },
+    {
+        "word": "ARMOIRE"
+    },
+    {
+        "word": "BANC"
+    },
+    {
+        "word": "BUREAU"
+    },
+    {
+        "word": "CABINET"
+    },
+    {
+        "word": "CARREAU"
+    },
+    {
+        "word": "CHAISE"
+    },
+    {
+        "word": "CLASSE"
+    },
+    {
+        "word": "CLEF"
+    },
+    {
+        "word": "COIN"
+    },
+    {
+        "word": "COULOIR"
+    },
+    {
+        "word": "DOSSIER"
+    },
+    {
+        "word": "EAU"
+    },
+    {
+        "word": "ECOLE"
+    },
+    {
+        "word": "ENTRER"
+    },
+    {
+        "word": "ESCALIER"
+    },
+    {
+        "word": "ETAGERE"
+    },
+    {
+        "word": "EXTERIEUR"
+    },
+    {
+        "word": "FENETRE"
+    },
+    {
+        "word": "INTERIEUR"
+    },
+    {
+        "word": "LAVABO"
+    },
+    {
+        "word": "LIT"
+    },
+    {
+        "word": "MARCHE"
+    },
+    {
+        "word": "MATELAS"
+    },
+    {
+        "word": "MATERNELLE"
+    },
+    {
+        "word": "MEUBLE"
+    },
+    {
+        "word": "MOUSSE"
+    },
+    {
+        "word": "MUR"
+    },
+    {
+        "word": "PELUCHE"
+    },
+    {
+        "word": "PLACARD"
+    },
+    {
+        "word": "PLAFOND"
+    },
+    {
+        "word": "PORTE"
+    },
+    {
+        "word": "POUBELLE"
+    },
+    {
+        "word": "RADIATEUR"
+    },
+    {
+        "word": "RAMPE"
+    },
+    {
+        "word": "RIDEAU"
+    },
+    {
+        "word": "ROBINET"
+    },
+    {
+        "word": "SALLE"
+    },
+    {
+        "word": "SALON"
+    },
+    {
+        "word": "SERRURE"
+    },
+    {
+        "word": "SERVIETTE"
+    },
+    {
+        "word": "SIEGE"
+    },
+    {
+        "word": "SIESTE"
+    },
+    {
+        "word": "SILENCE"
+    },
+    {
+        "word": "SOL"
+    },
+    {
+        "word": "SOMMEIL"
+    },
+    {
+        "word": "SONNETTE"
+    },
+    {
+        "word": "SORTIE"
+    },
+    {
+        "word": "TABLE"
+    },
+    {
+        "word": "TABLEAU"
+    },
+    {
+        "word": "TABOURET"
+    },
+    {
+        "word": "TAPIS"
+    },
+    {
+        "word": "TIROIR"
+    },
+    {
+        "word": "TOILETTE"
+    },
+    {
+        "word": "VITRE"
+    },
+    {
+        "word": "ALLER"
+    },
+    {
+        "word": "AMENER"
+    },
+    {
+        "word": "APPORTER"
+    },
+    {
+        "word": "APPUYER"
+    },
+    {
+        "word": "ATTENDRE"
+    },
+    {
+        "word": "BAILLER"
+    },
+    {
+        "word": "COUCHER"
+    },
+    {
+        "word": "DORMIR"
+    },
+    {
+        "word": "ECLAIRER"
+    },
+    {
+        "word": "EMMENER"
+    },
+    {
+        "word": "EMPORTER"
+    },
+    {
+        "word": "ENTRER"
+    },
+    {
+        "word": "FERMER"
+    },
+    {
+        "word": "FRAPPER"
+    },
+    {
+        "word": "INSTALLER"
+    },
+    {
+        "word": "LEVER"
+    },
+    {
+        "word": "OUVRIR"
+    },
+    {
+        "word": "PRESSER"
+    },
+    {
+        "word": "RECHAUFFER"
+    },
+    {
+        "word": "RESTER"
+    },
+    {
+        "word": "SONNER"
+    },
+    {
+        "word": "SORTIR"
+    },
+    {
+        "word": "VENIR"
+    },
+    {
+        "word": "ABSENT"
+    },
+    {
+        "word": "ASSIS"
+    },
+    {
+        "word": "BAS"
+    },
+    {
+        "word": "HAUT"
+    },
+    {
+        "word": "PRESENT"
+    },
+    {
+        "word": "GAUCHE"
+    },
+    {
+        "word": "DROITE"
+    },
+    {
+        "word": "DEBOUT"
+    },
+    {
+        "word": "DEDANS"
+    },
+    {
+        "word": "DEHORS"
+    },
+    {
+        "word": "FACE"
+    },
+    {
+        "word": "LOIN"
+    },
+    {
+        "word": "PRES"
+    },
+    {
+        "word": "TARD"
+    },
+    {
+        "word": "TOT"
+    },
+    {
+        "word": "APRES"
+    },
+    {
+        "word": "AVANT"
+    },
+    {
+        "word": "CONTRE"
+    },
+    {
+        "word": "DANS"
+    },
+    {
+        "word": "DE"
+    },
+    {
+        "word": "DERRIERE"
+    },
+    {
+        "word": "DEVANT"
+    },
+    {
+        "word": "DU"
+    },
+    {
+        "word": "SOUS"
+    },
+    {
+        "word": "SUR"
+    },
+    {
+        "word": "CRAYON"
+    },
+    {
+        "word": "STYLO"
+    },
+    {
+        "word": "FEUTRE"
+    },
+    {
+        "word": "MINE"
+    },
+    {
+        "word": "GOMME"
+    },
+    {
+        "word": "DESSIN"
+    },
+    {
+        "word": "COLORIAGE"
+    },
+    {
+        "word": "RAYURE"
+    },
+    {
+        "word": "PEINTURE"
+    },
+    {
+        "word": "PINCEAU"
+    },
+    {
+        "word": "COULEUR"
+    },
+    {
+        "word": "CRAIE"
+    },
+    {
+        "word": "PAPIER"
+    },
+    {
+        "word": "FEUILLE"
+    },
+    {
+        "word": "CAHIER"
+    },
+    {
+        "word": "CARNET"
+    },
+    {
+        "word": "CARTON"
+    },
+    {
+        "word": "CISEAUX"
+    },
+    {
+        "word": "DECOUPAGE"
+    },
+    {
+        "word": "PLIAGE"
+    },
+    {
+        "word": "PLI"
+    },
+    {
+        "word": "COLLE"
+    },
+    {
+        "word": "AFFAIRE"
+    },
+    {
+        "word": "BOITE"
+    },
+    {
+        "word": "CASIER"
+    },
+    {
+        "word": "CAISSE"
+    },
+    {
+        "word": "TROUSSE"
+    },
+    {
+        "word": "CARTABLE"
+    },
+    {
+        "word": "JEU"
+    },
+    {
+        "word": "JOUET"
+    },
+    {
+        "word": "PION"
+    },
+    {
+        "word": "DOMINO"
+    },
+    {
+        "word": "PUZZLE"
+    },
+    {
+        "word": "CUBE"
+    },
+    {
+        "word": "PERLE"
+    },
+    {
+        "word": "CHOSE"
+    },
+    {
+        "word": "FORME"
+    },
+    {
+        "word": "CARRE"
+    },
+    {
+        "word": "ROND"
+    },
+    {
+        "word": "PATE"
+    },
+    {
+        "word": "MODELER"
+    },
+    {
+        "word": "TAMPON"
+    },
+    {
+        "word": "LIVRE"
+    },
+    {
+        "word": "HISTOIRE"
+    },
+    {
+        "word": "BIBLIOTHEQUE"
+    },
+    {
+        "word": "IMAGE"
+    },
+    {
+        "word": "ALBUM"
+    },
+    {
+        "word": "TITRE"
+    },
+    {
+        "word": "CONTE"
+    },
+    {
+        "word": "DICTIONNAIRE"
+    },
+    {
+        "word": "MAGAZINE"
+    },
+    {
+        "word": "CATALOGUE"
+    },
+    {
+        "word": "PAGE"
+    },
+    {
+        "word": "LIGNE"
+    },
+    {
+        "word": "MOT"
+    },
+    {
+        "word": "ENVELOPPE"
+    },
+    {
+        "word": "ETIQUETTE"
+    },
+    {
+        "word": "CARTE"
+    },
+    {
+        "word": "APPEL"
+    },
+    {
+        "word": "AFFICHE"
+    },
+    {
+        "word": "ALPHABET"
+    },
+    {
+        "word": "APPAREIL"
+    },
+    {
+        "word": "CAMESCOPE"
+    },
+    {
+        "word": "CASSETTE"
+    },
+    {
+        "word": "CHAINE"
+    },
+    {
+        "word": "CHANSON"
+    },
+    {
+        "word": "CHIFFRE"
+    },
+    {
+        "word": "CONTRAIRE"
+    },
+    {
+        "word": "DIFFERENCE"
+    },
+    {
+        "word": "DOIGT"
+    },
+    {
+        "word": "ECRAN"
+    },
+    {
+        "word": "ECRITURE"
+    },
+    {
+        "word": "FILM"
+    },
+    {
+        "word": "FOIS"
+    },
+    {
+        "word": "FOI"
+    },
+    {
+        "word": "IDEE"
+    },
+    {
+        "word": "INSTRUMENT"
+    },
+    {
+        "word": "INTRUS"
+    },
+    {
+        "word": "LETTRE"
+    },
+    {
+        "word": "LISTE"
+    },
+    {
+        "word": "MAGNETOSCOPE"
+    },
+    {
+        "word": "MAIN"
+    },
+    {
+        "word": "MICRO"
+    },
+    {
+        "word": "MODELE"
+    },
+    {
+        "word": "MUSIQUE"
+    },
+    {
+        "word": "NOM"
+    },
+    {
+        "word": "NOMBRE"
+    },
+    {
+        "word": "ORCHESTRE"
+    },
+    {
+        "word": "ORDINATEUR"
+    },
+    {
+        "word": "PHOTO"
+    },
+    {
+        "word": "POINT"
+    },
+    {
+        "word": "POSTER"
+    },
+    {
+        "word": "POUCE"
+    },
+    {
+        "word": "PRENOM"
+    },
+    {
+        "word": "QUESTION"
+    },
+    {
+        "word": "RADIO"
+    },
+    {
+        "word": "SENS"
+    },
+    {
+        "word": "TAMBOUR"
+    },
+    {
+        "word": "TELECOMMANDE"
+    },
+    {
+        "word": "TELEPHONE"
+    },
+    {
+        "word": "TELEVISION"
+    },
+    {
+        "word": "TRAIT"
+    },
+    {
+        "word": "TROMPETTE"
+    },
+    {
+        "word": "VOIX"
+    },
+    {
+        "word": "XYLOPHONE"
+    },
+    {
+        "word": "ZERO"
+    },
+    {
+        "word": "CHANTER"
+    },
+    {
+        "word": "CHERCHER"
+    },
+    {
+        "word": "CHOISIR"
+    },
+    {
+        "word": "CHUCHOTER"
+    },
+    {
+        "word": "COLLER"
+    },
+    {
+        "word": "COLORIER"
+    },
+    {
+        "word": "COMMENCER"
+    },
+    {
+        "word": "COMPARER"
+    },
+    {
+        "word": "COMPTER"
+    },
+    {
+        "word": "CONSTRUIRE"
+    },
+    {
+        "word": "CONTINUER"
+    },
+    {
+        "word": "COPIER"
+    },
+    {
+        "word": "COUPER"
+    },
+    {
+        "word": "DECHIRER"
+    },
+    {
+        "word": "DECOLLER"
+    },
+    {
+        "word": "DECORER"
+    },
+    {
+        "word": "DECOUPER"
+    },
+    {
+        "word": "DEMOLIR"
+    },
+    {
+        "word": "DESSINER"
+    },
+    {
+        "word": "DIRE"
+    },
+    {
+        "word": "DISCUTER"
+    },
+    {
+        "word": "ECOUTER"
+    },
+    {
+        "word": "ECRIRE"
+    },
+    {
+        "word": "EFFACER"
+    },
+    {
+        "word": "ENTENDRE"
+    },
+    {
+        "word": "ENTOURER"
+    },
+    {
+        "word": "ENVOYER"
+    },
+    {
+        "word": "FAIRE"
+    },
+    {
+        "word": "FINIR"
+    },
+    {
+        "word": "FOUILLER"
+    },
+    {
+        "word": "GOUTER"
+    },
+    {
+        "word": "IMITER"
+    },
+    {
+        "word": "LAISSER"
+    },
+    {
+        "word": "LIRE"
+    },
+    {
+        "word": "METTRE"
+    },
+    {
+        "word": "MONTRER"
+    },
+    {
+        "word": "OUVRIR"
+    },
+    {
+        "word": "PARLER"
+    },
+    {
+        "word": "PEINDRE"
+    },
+    {
+        "word": "PLIER"
+    },
+    {
+        "word": "POSER"
+    },
+    {
+        "word": "PRENDRE"
+    },
+    {
+        "word": "PREPARER"
+    },
+    {
+        "word": "RANGER"
+    },
+    {
+        "word": "RECITER"
+    },
+    {
+        "word": "RECOMMENCER"
+    },
+    {
+        "word": "REGARDER"
+    },
+    {
+        "word": "REMETTRE"
+    },
+    {
+        "word": "REPETER"
+    },
+    {
+        "word": "REPONDRE"
+    },
+    {
+        "word": "SENTIR"
+    },
+    {
+        "word": "SOULIGNER"
+    },
+    {
+        "word": "TAILLER"
+    },
+    {
+        "word": "TENIR"
+    },
+    {
+        "word": "TERMINER"
+    },
+    {
+        "word": "TOUCHER"
+    },
+    {
+        "word": "TRAVAILLER"
+    },
+    {
+        "word": "TRIER"
+    },
+    {
+        "word": "AMI"
+    },
+    {
+        "word": "ATTENTION"
+    },
+    {
+        "word": "CAMARADE"
+    },
+    {
+        "word": "COLERE"
+    },
+    {
+        "word": "COPAIN"
+    },
+    {
+        "word": "COQUIN"
+    },
+    {
+        "word": "DAME"
+    },
+    {
+        "word": "DIRECTEUR"
+    },
+    {
+        "word": "DIRECTRICE"
+    },
+    {
+        "word": "DROIT"
+    },
+    {
+        "word": "EFFORT"
+    },
+    {
+        "word": "ELEVE"
+    },
+    {
+        "word": "ENFANT"
+    },
+    {
+        "word": "FATIGUE"
+    },
+    {
+        "word": "FAUTE"
+    },
+    {
+        "word": "FILLE"
+    },
+    {
+        "word": "GARCON"
+    },
+    {
+        "word": "GARDIEN"
+    },
+    {
+        "word": "MADAME"
+    },
+    {
+        "word": "MAITRE"
+    },
+    {
+        "word": "MAITRESSE"
+    },
+    {
+        "word": "MENSONGE"
+    },
+    {
+        "word": "ORDRE"
+    },
+    {
+        "word": "PERSONNE"
+    },
+    {
+        "word": "RETARD"
+    },
+    {
+        "word": "JOUEUR"
+    },
+    {
+        "word": "SOURIRE"
+    },
+    {
+        "word": "TRAVAIL"
+    },
+    {
+        "word": "AIDER"
+    },
+    {
+        "word": "DEFENDRE"
+    },
+    {
+        "word": "DESOBEIR"
+    },
+    {
+        "word": "DISTRIBUER"
+    },
+    {
+        "word": "ECHANGER"
+    },
+    {
+        "word": "EXPLIQUER"
+    },
+    {
+        "word": "GRONDER"
+    },
+    {
+        "word": "OBEIR"
+    },
+    {
+        "word": "OBLIGER"
+    },
+    {
+        "word": "PARTAGER"
+    },
+    {
+        "word": "PRETER"
+    },
+    {
+        "word": "PRIVER"
+    },
+    {
+        "word": "PROMETTRE"
+    },
+    {
+        "word": "PROGRES"
+    },
+    {
+        "word": "PROGRESSER"
+    },
+    {
+        "word": "PUNIR"
+    },
+    {
+        "word": "QUITTER"
+    },
+    {
+        "word": "RACONTER"
+    },
+    {
+        "word": "EXPLIQUER"
+    },
+    {
+        "word": "REFUSER"
+    },
+    {
+        "word": "SEPARER"
+    },
+    {
+        "word": "BLOND"
+    },
+    {
+        "word": "BRUN"
+    },
+    {
+        "word": "CALME"
+    },
+    {
+        "word": "CURIEUX"
+    },
+    {
+        "word": "DIFFERENT"
+    },
+    {
+        "word": "DOUX"
+    },
+    {
+        "word": "ENERVER"
+    },
+    {
+        "word": "GENTIL"
+    },
+    {
+        "word": "GRAND"
+    },
+    {
+        "word": "HANDICAPE"
+    },
+    {
+        "word": "INSEPARABLE"
+    },
+    {
+        "word": "JALOUX"
+    },
+    {
+        "word": "MOYEN"
+    },
+    {
+        "word": "MUET"
+    },
+    {
+        "word": "NOIR"
+    },
+    {
+        "word": "NOUVEAU"
+    },
+    {
+        "word": "PETIT"
+    },
+    {
+        "word": "POLI"
+    },
+    {
+        "word": "PROPRE"
+    },
+    {
+        "word": "ROUX"
+    },
+    {
+        "word": "SAGE"
+    },
+    {
+        "word": "SALE"
+    },
+    {
+        "word": "SERIEUX"
+    },
+    {
+        "word": "SOURD"
+    },
+    {
+        "word": "TRANQUILLE"
+    },
+    {
+        "word": "ARROSOIR"
+    },
+    {
+        "word": "ASSIETTE"
+    },
+    {
+        "word": "BALLE"
+    },
+    {
+        "word": "BATEAU"
+    },
+    {
+        "word": "BOITE"
+    },
+    {
+        "word": "BOUCHON"
+    },
+    {
+        "word": "BOUTEILLE"
+    },
+    {
+        "word": "BULLES"
+    },
+    {
+        "word": "CANARD"
+    },
+    {
+        "word": "CASSEROLE"
+    },
+    {
+        "word": "CUILLERE"
+    },
+    {
+        "word": "CUVETTE"
+    },
+    {
+        "word": "DOUCHE"
+    },
+    {
+        "word": "ENTONNOIR"
+    },
+    {
+        "word": "GOUTTES"
+    },
+    {
+        "word": "LITRE"
+    },
+    {
+        "word": "MOULIN"
+    },
+    {
+        "word": "PLUIE"
+    },
+    {
+        "word": "POISSON"
+    },
+    {
+        "word": "PONT"
+    },
+    {
+        "word": "POT"
+    },
+    {
+        "word": "ROUE"
+    },
+    {
+        "word": "SAC"
+    },
+    {
+        "word": "PLASTIQUE"
+    },
+    {
+        "word": "SALADIER"
+    },
+    {
+        "word": "SEAU"
+    },
+    {
+        "word": "TABLIER"
+    },
+    {
+        "word": "TASSE"
+    },
+    {
+        "word": "TROUS"
+    },
+    {
+        "word": "VERRE"
+    },
+    {
+        "word": "AGITER"
+    },
+    {
+        "word": "AMUSER"
+    },
+    {
+        "word": "ARROSER"
+    },
+    {
+        "word": "ATTRAPER"
+    },
+    {
+        "word": "AVANCER"
+    },
+    {
+        "word": "BAIGNER"
+    },
+    {
+        "word": "BARBOTER"
+    },
+    {
+        "word": "BOUCHER"
+    },
+    {
+        "word": "BOUGER"
+    },
+    {
+        "word": "DEBORDER"
+    },
+    {
+        "word": "DOUCHER"
+    },
+    {
+        "word": "ECLABOUSSER"
+    },
+    {
+        "word": "ESSUYER"
+    },
+    {
+        "word": "ENVOYER"
+    },
+    {
+        "word": "COULER"
+    },
+    {
+        "word": "PARTIR"
+    },
+    {
+        "word": "FLOTTER"
+    },
+    {
+        "word": "GONFLER"
+    },
+    {
+        "word": "INONDER"
+    },
+    {
+        "word": "JOUER"
+    },
+    {
+        "word": "LAVER"
+    },
+    {
+        "word": "MELANGER"
+    },
+    {
+        "word": "MOUILLER"
+    },
+    {
+        "word": "NAGER"
+    },
+    {
+        "word": "PLEUVOIR"
+    },
+    {
+        "word": "PLONGER"
+    },
+    {
+        "word": "POUSSER"
+    },
+    {
+        "word": "POUVOIR"
+    },
+    {
+        "word": "PRESSER"
+    },
+    {
+        "word": "RECEVOIR"
+    },
+    {
+        "word": "REMPLIR"
+    },
+    {
+        "word": "RENVERSER"
+    },
+    {
+        "word": "SECHER"
+    },
+    {
+        "word": "SERRER"
+    },
+    {
+        "word": "SOUFFLER"
+    },
+    {
+        "word": "TIRER"
+    },
+    {
+        "word": "TOURNER"
+    },
+    {
+        "word": "TREMPER"
+    },
+    {
+        "word": "VERSER"
+    },
+    {
+        "word": "VIDER"
+    },
+    {
+        "word": "VOULOIR"
+    },
+    {
+        "word": "AMUSANT"
+    },
+    {
+        "word": "CHAUD"
+    },
+    {
+        "word": "FROID"
+    },
+    {
+        "word": "HUMIDE"
+    },
+    {
+        "word": "INTERESSANT"
+    },
+    {
+        "word": "MOUILLE"
+    },
+    {
+        "word": "SEC"
+    },
+    {
+        "word": "TRANSPARENT"
+    },
+    {
+        "word": "MOITIE"
+    },
+    {
+        "word": "AUTANT"
+    },
+    {
+        "word": "BEAUCOUP"
+    },
+    {
+        "word": "ENCORE"
+    },
+    {
+        "word": "MOINS"
+    },
+    {
+        "word": "PEU"
+    },
+    {
+        "word": "PLUS"
+    },
+    {
+        "word": "TROP"
+    },
+    {
+        "word": "ANORAK"
+    },
+    {
+        "word": "ARC"
+    },
+    {
+        "word": "BAGAGE"
+    },
+    {
+        "word": "BAGUETTE"
+    },
+    {
+        "word": "BARBE"
+    },
+    {
+        "word": "BONNET"
+    },
+    {
+        "word": "BOTTE"
+    },
+    {
+        "word": "BOUTON"
+    },
+    {
+        "word": "BRETELLE"
+    },
+    {
+        "word": "CAGOULE"
+    },
+    {
+        "word": "CASQUE"
+    },
+    {
+        "word": "CASQUETTE"
+    },
+    {
+        "word": "CEINTURE"
+    },
+    {
+        "word": "CHAPEAU"
+    },
+    {
+        "word": "CHAUSSETTE"
+    },
+    {
+        "word": "CHAUSSON"
+    },
+    {
+        "word": "CHAUSSURE"
+    },
+    {
+        "word": "CHEMISE"
+    },
+    {
+        "word": "CIGARETTE"
+    },
+    {
+        "word": "COL"
+    },
+    {
+        "word": "COLLANT"
+    },
+    {
+        "word": "COURONNE"
+    },
+    {
+        "word": "CRAVATE"
+    },
+    {
+        "word": "CULOTTE"
+    },
+    {
+        "word": "ECHARPE"
+    },
+    {
+        "word": "EPEE"
+    },
+    {
+        "word": "FEE"
+    },
+    {
+        "word": "FLECHE"
+    },
+    {
+        "word": "FUSIL"
+    },
+    {
+        "word": "GANT"
+    },
+    {
+        "word": "HABIT"
+    },
+    {
+        "word": "JEAN"
+    },
+    {
+        "word": "JUPE"
+    },
+    {
+        "word": "LACET"
+    },
+    {
+        "word": "LAINE"
+    },
+    {
+        "word": "LINGE"
+    },
+    {
+        "word": "LUNETTES"
+    },
+    {
+        "word": "MAGICIEN"
+    },
+    {
+        "word": "MAGIE"
+    },
+    {
+        "word": "MAILLOT"
+    },
+    {
+        "word": "MANCHE"
+    },
+    {
+        "word": "MANTEAU"
+    },
+    {
+        "word": "MOUCHOIR"
+    },
+    {
+        "word": "MOUFLE"
+    },
+    {
+        "word": "NOEUD"
+    },
+    {
+        "word": "PAIRE"
+    },
+    {
+        "word": "PANTALON"
+    },
+    {
+        "word": "PIED"
+    },
+    {
+        "word": "POCHE"
+    },
+    {
+        "word": "PRINCE"
+    },
+    {
+        "word": "PYJAMA"
+    },
+    {
+        "word": "REINE"
+    },
+    {
+        "word": "ROBE"
+    },
+    {
+        "word": "ROI"
+    },
+    {
+        "word": "RUBAN"
+    },
+    {
+        "word": "SEMELLE"
+    },
+    {
+        "word": "SOLDAT"
+    },
+    {
+        "word": "SOCIERE"
+    },
+    {
+        "word": "TACHE"
+    },
+    {
+        "word": "TAILLE"
+    },
+    {
+        "word": "TALON"
+    },
+    {
+        "word": "TISSU"
+    },
+    {
+        "word": "TRICOT"
+    },
+    {
+        "word": "UNIFORME"
+    },
+    {
+        "word": "VALISE"
+    },
+    {
+        "word": "VESTE"
+    },
+    {
+        "word": "VETEMENT"
+    },
+    {
+        "word": "CHANGER"
+    },
+    {
+        "word": "CHAUSSER"
+    },
+    {
+        "word": "COUVRIR"
+    },
+    {
+        "word": "DEGUISER"
+    },
+    {
+        "word": "DESHABILLER"
+    },
+    {
+        "word": "ENLEVER"
+    },
+    {
+        "word": "HABILLER"
+    },
+    {
+        "word": "LACER"
+    },
+    {
+        "word": "PORTER"
+    },
+    {
+        "word": "RESSEMBLER"
+    },
+    {
+        "word": "CLAIR"
+    },
+    {
+        "word": "COURT"
+    },
+    {
+        "word": "ETROIT"
+    },
+    {
+        "word": "FONCE"
+    },
+    {
+        "word": "JOLI"
+    },
+    {
+        "word": "LARGE"
+    },
+    {
+        "word": "LONG"
+    },
+    {
+        "word": "MULTICOLORE"
+    },
+    {
+        "word": "NU"
+    },
+    {
+        "word": "USE"
+    },
+    {
+        "word": "BIEN"
+    },
+    {
+        "word": "MAL"
+    },
+    {
+        "word": "MIEUX"
+    },
+    {
+        "word": "PRESQUE"
+    },
+    {
+        "word": "AIGUILLE"
+    },
+    {
+        "word": "AMPOULE"
+    },
+    {
+        "word": "AVION"
+    },
+    {
+        "word": "BOIS"
+    },
+    {
+        "word": "BOUT"
+    },
+    {
+        "word": "BRICOLAGE"
+    },
+    {
+        "word": "BRUIT"
+    },
+    {
+        "word": "CABANE"
+    },
+    {
+        "word": "CARTON"
+    },
+    {
+        "word": "CLOU"
+    },
+    {
+        "word": "COLLE"
+    },
+    {
+        "word": "CROCHET"
+    },
+    {
+        "word": "ELASTIQUE"
+    },
+    {
+        "word": "FICELLE"
+    },
+    {
+        "word": "FIL"
+    },
+    {
+        "word": "MARIONNETTE"
+    },
+    {
+        "word": "MARTEAU"
+    },
+    {
+        "word": "METAL"
+    },
+    {
+        "word": "METRE"
+    },
+    {
+        "word": "MORCEAU"
+    },
+    {
+        "word": "MOTEUR"
+    },
+    {
+        "word": "OBJET"
+    },
+    {
+        "word": "OUTIL"
+    },
+    {
+        "word": "PEINTURE"
+    },
+    {
+        "word": "PINCEAU"
+    },
+    {
+        "word": "PLANCHE"
+    },
+    {
+        "word": "PLATRE"
+    },
+    {
+        "word": "SCIE"
+    },
+    {
+        "word": "TOURNEVIS"
+    },
+    {
+        "word": "VIS"
+    },
+    {
+        "word": "VOITURE"
+    },
+    {
+        "word": "ARRACHER"
+    },
+    {
+        "word": "ATTACHER"
+    },
+    {
+        "word": "CASSER"
+    },
+    {
+        "word": "COUDRE"
+    },
+    {
+        "word": "DETRUIRE"
+    },
+    {
+        "word": "ECORCHER"
+    },
+    {
+        "word": "ENFILER"
+    },
+    {
+        "word": "ENFONCER"
+    },
+    {
+        "word": "FABRIQUER"
+    },
+    {
+        "word": "MESURER"
+    },
+    {
+        "word": "PERCER"
+    },
+    {
+        "word": "PINCER"
+    },
+    {
+        "word": "REPARER"
+    },
+    {
+        "word": "REUSSIR"
+    },
+    {
+        "word": "SERVIR"
+    },
+    {
+        "word": "TAPER"
+    },
+    {
+        "word": "TROUER"
+    },
+    {
+        "word": "TROUVER"
+    },
+    {
+        "word": "ADROIT"
+    },
+    {
+        "word": "DIFFICILE"
+    },
+    {
+        "word": "DUR"
+    },
+    {
+        "word": "FACILE"
+    },
+    {
+        "word": "LISSE"
+    },
+    {
+        "word": "MALADROIT"
+    },
+    {
+        "word": "POINTU"
+    },
+    {
+        "word": "TORDU"
+    },
+    {
+        "word": "ACCIDENT"
+    },
+    {
+        "word": "AEROPORT"
+    },
+    {
+        "word": "CAMION"
+    },
+    {
+        "word": "ENGIN"
+    },
+    {
+        "word": "FEU"
+    },
+    {
+        "word": "FREIN"
+    },
+    {
+        "word": "FUSEE"
+    },
+    {
+        "word": "GARAGE"
+    },
+    {
+        "word": "GARE"
+    },
+    {
+        "word": "GRUE"
+    },
+    {
+        "word": "HELICOPTERE"
+    },
+    {
+        "word": "MOTO"
+    },
+    {
+        "word": "PANNE"
+    },
+    {
+        "word": "PARKING"
+    },
+    {
+        "word": "PILOTE"
+    },
+    {
+        "word": "PNEU"
+    },
+    {
+        "word": "QUAI"
+    },
+    {
+        "word": "TRAIN"
+    },
+    {
+        "word": "VIRAGE"
+    },
+    {
+        "word": "VITESSE"
+    },
+    {
+        "word": "VOYAGE"
+    },
+    {
+        "word": "WAGON"
+    },
+    {
+        "word": "ZIGZAG"
+    },
+    {
+        "word": "ARRETER"
+    },
+    {
+        "word": "ATTERRIR"
+    },
+    {
+        "word": "BOUDER"
+    },
+    {
+        "word": "CHARGER"
+    },
+    {
+        "word": "CONDUIRE"
+    },
+    {
+        "word": "DEMARRER"
+    },
+    {
+        "word": "DISPARAITRE"
+    },
+    {
+        "word": "DONNER"
+    },
+    {
+        "word": "ECRASER"
+    },
+    {
+        "word": "ENVOLER"
+    },
+    {
+        "word": "GARDER"
+    },
+    {
+        "word": "GARER"
+    },
+    {
+        "word": "MANQUER"
+    },
+    {
+        "word": "PARTIR"
+    },
+    {
+        "word": "POSER"
+    },
+    {
+        "word": "RECULER"
+    },
+    {
+        "word": "ROULER"
+    },
+    {
+        "word": "TENDRE"
+    },
+    {
+        "word": "TRANSPORTER"
+    },
+    {
+        "word": "VOLER"
+    },
+    {
+        "word": "ABIME"
+    },
+    {
+        "word": "ANCIEN"
+    },
+    {
+        "word": "BLANC"
+    },
+    {
+        "word": "BLEU"
+    },
+    {
+        "word": "CASSE"
+    },
+    {
+        "word": "CINQ"
+    },
+    {
+        "word": "DERNIER"
+    },
+    {
+        "word": "DEUX"
+    },
+    {
+        "word": "DEUXIEME"
+    },
+    {
+        "word": "DIX"
+    },
+    {
+        "word": "GRIS"
+    },
+    {
+        "word": "GROS"
+    },
+    {
+        "word": "HUIT"
+    },
+    {
+        "word": "JAUNE"
+    },
+    {
+        "word": "MEME"
+    },
+    {
+        "word": "NEUF"
+    },
+    {
+        "word": "PAREIL"
+    },
+    {
+        "word": "PREMIER"
+    },
+    {
+        "word": "QUATRE"
+    },
+    {
+        "word": "ROUGE"
+    },
+    {
+        "word": "SEPT"
+    },
+    {
+        "word": "SEUL"
+    },
+    {
+        "word": "SIX"
+    },
+    {
+        "word": "SOLIDE"
+    },
+    {
+        "word": "TROIS"
+    },
+    {
+        "word": "TROISIEME"
+    },
+    {
+        "word": "UN"
+    },
+    {
+        "word": "VERT"
+    },
+    {
+        "word": "DESSUS"
+    },
+    {
+        "word": "AUTOUR"
+    },
+    {
+        "word": "VITE"
+    },
+    {
+        "word": "VERS"
+    },
+    {
+        "word": "ACROBATE"
+    },
+    {
+        "word": "ARRET"
+    },
+    {
+        "word": "ARRIERE"
+    },
+    {
+        "word": "BARRE"
+    },
+    {
+        "word": "BARREAU"
+    },
+    {
+        "word": "BORD"
+    },
+    {
+        "word": "BRAS"
+    },
+    {
+        "word": "CERCEAU"
+    },
+    {
+        "word": "CHAISE"
+    },
+    {
+        "word": "CHEVILLE"
+    },
+    {
+        "word": "CHUTE"
+    },
+    {
+        "word": "COEUR"
+    },
+    {
+        "word": "CORDE"
+    },
+    {
+        "word": "CORPS"
+    },
+    {
+        "word": "COTE"
+    },
+    {
+        "word": "COU"
+    },
+    {
+        "word": "COUDE"
+    },
+    {
+        "word": "CUISSE"
+    },
+    {
+        "word": "DANGER"
+    },
+    {
+        "word": "DOIGTS"
+    },
+    {
+        "word": "DOS"
+    },
+    {
+        "word": "ECHASSES"
+    },
+    {
+        "word": "ECHELLE"
+    },
+    {
+        "word": "EPAULE"
+    },
+    {
+        "word": "EQUIPE"
+    },
+    {
+        "word": "ESCABEAU"
+    },
+    {
+        "word": "FESSE"
+    },
+    {
+        "word": "FILET"
+    },
+    {
+        "word": "FOND"
+    },
+    {
+        "word": "GENOU"
+    },
+    {
+        "word": "GYMNASTIQUE"
+    },
+    {
+        "word": "HANCHE"
+    },
+    {
+        "word": "JAMBE"
+    },
+    {
+        "word": "JEU"
+    },
+    {
+        "word": "MAINS"
+    },
+    {
+        "word": "MILIEU"
+    },
+    {
+        "word": "MONTAGNE"
+    },
+    {
+        "word": "MUR"
+    },
+    {
+        "word": "ESCALADE"
+    },
+    {
+        "word": "MUSCLE"
+    },
+    {
+        "word": "NUMERO"
+    },
+    {
+        "word": "ONGLE"
+    },
+    {
+        "word": "PARCOURS"
+    },
+    {
+        "word": "PAS"
+    },
+    {
+        "word": "PASSERELLE"
+    },
+    {
+        "word": "PENTE"
+    },
+    {
+        "word": "PEUR"
+    },
+    {
+        "word": "PIED"
+    },
+    {
+        "word": "PLONGEOIR"
+    },
+    {
+        "word": "POIGNET"
+    },
+    {
+        "word": "POING"
+    },
+    {
+        "word": "PONT"
+    },
+    {
+        "word": "SIGNE"
+    },
+    {
+        "word": "SINGE"
+    },
+    {
+        "word": "POUTRE"
+    },
+    {
+        "word": "EQUILIBRE"
+    },
+    {
+        "word": "PRISE"
+    },
+    {
+        "word": "RIVIERE"
+    },
+    {
+        "word": "CROCODILE"
+    },
+    {
+        "word": "ROULADE"
+    },
+    {
+        "word": "PIROUETTE"
+    },
+    {
+        "word": "SAUT"
+    },
+    {
+        "word": "SERPENT"
+    },
+    {
+        "word": "SPORT"
+    },
+    {
+        "word": "SUIVANT"
+    },
+    {
+        "word": "TETE"
+    },
+    {
+        "word": "TOBOGGAN"
+    },
+    {
+        "word": "TOUR"
+    },
+    {
+        "word": "TRAMPOLINE"
+    },
+    {
+        "word": "TUNNEL"
+    },
+    {
+        "word": "VENTRE"
+    },
+    {
+        "word": "ACCROCHER"
+    },
+    {
+        "word": "APPUYER"
+    },
+    {
+        "word": "ARRIVER"
+    },
+    {
+        "word": "BAISSER"
+    },
+    {
+        "word": "BALANCER"
+    },
+    {
+        "word": "BONDIR"
+    },
+    {
+        "word": "BOUSCULER"
+    },
+    {
+        "word": "COGNER"
+    },
+    {
+        "word": "COURIR"
+    },
+    {
+        "word": "DANSER"
+    },
+    {
+        "word": "DEPASSER"
+    },
+    {
+        "word": "DESCENDRE"
+    },
+    {
+        "word": "ECARTER"
+    },
+    {
+        "word": "ESCALADER"
+    },
+    {
+        "word": "GAGNER"
+    },
+    {
+        "word": "GENER"
+    },
+    {
+        "word": "GLISSER"
+    },
+    {
+        "word": "GRIMPER"
+    },
+    {
+        "word": "MARCHER"
+    },
+    {
+        "word": "PATTES"
+    },
+    {
+        "word": "DEBOUT"
+    },
+    {
+        "word": "MONTER"
+    },
+    {
+        "word": "MONTRER"
+    },
+    {
+        "word": "PENCHER"
+    },
+    {
+        "word": "PERCHER"
+    },
+    {
+        "word": "PERDRE"
+    },
+    {
+        "word": "RAMPER"
+    },
+    {
+        "word": "RATER"
+    },
+    {
+        "word": "REMPLACER"
+    },
+    {
+        "word": "RESPIRER"
+    },
+    {
+        "word": "RETOURNER"
+    },
+    {
+        "word": "REVENIR"
+    },
+    {
+        "word": "SAUTER"
+    },
+    {
+        "word": "SOULEVER"
+    },
+    {
+        "word": "SUIVRE"
+    },
+    {
+        "word": "TOMBER"
+    },
+    {
+        "word": "TRANSPIRER"
+    },
+    {
+        "word": "TRAVERSER"
+    },
+    {
+        "word": "DANGEUREUX"
+    },
+    {
+        "word": "EPAIS"
+    },
+    {
+        "word": "FORT"
+    },
+    {
+        "word": "GROUPE"
+    },
+    {
+        "word": "IMMOBILE"
+    },
+    {
+        "word": "ROND"
+    },
+    {
+        "word": "SERRE"
+    },
+    {
+        "word": "SOUPLE"
+    },
+    {
+        "word": "ENSEMBLE"
+    },
+    {
+        "word": "ICI"
+    },
+    {
+        "word": "JAMAIS"
+    },
+    {
+        "word": "TOUJOURS"
+    },
+    {
+        "word": "SOUVENT"
+    },
+    {
+        "word": "BAGARRE"
+    },
+    {
+        "word": "BALANCOIRE"
+    },
+    {
+        "word": "BALLON"
+    },
+    {
+        "word": "BANDE"
+    },
+    {
+        "word": "BICYCLETTE"
+    },
+    {
+        "word": "BILLE"
+    },
+    {
+        "word": "CAGE"
+    },
+    {
+        "word": "ECUREUIL"
+    },
+    {
+        "word": "CERF"
+    },
+    {
+        "word": "VOLANT"
+    },
+    {
+        "word": "CHATEAU"
+    },
+    {
+        "word": "COUP"
+    },
+    {
+        "word": "COUR"
+    },
+    {
+        "word": "COURSE"
+    },
+    {
+        "word": "ECHASSE"
+    },
+    {
+        "word": "FLAQUE"
+    },
+    {
+        "word": "EAU"
+    },
+    {
+        "word": "PAIX"
+    },
+    {
+        "word": "PARDON"
+    },
+    {
+        "word": "PARTIE"
+    },
+    {
+        "word": "PEDALE"
+    },
+    {
+        "word": "PELLE"
+    },
+    {
+        "word": "POMPE"
+    },
+    {
+        "word": "PREAU"
+    },
+    {
+        "word": "RAQUETTE"
+    },
+    {
+        "word": "RAYON"
+    },
+    {
+        "word": "RECREATION"
+    },
+    {
+        "word": "SABLE"
+    },
+    {
+        "word": "SIFFLET"
+    },
+    {
+        "word": "SIGNE"
+    },
+    {
+        "word": "TAS"
+    },
+    {
+        "word": "TRICYCLE"
+    },
+    {
+        "word": "TUYAU"
+    },
+    {
+        "word": "VELO"
+    },
+    {
+        "word": "FILE"
+    },
+    {
+        "word": "RANG"
+    },
+    {
+        "word": "BAGARRER"
+    },
+    {
+        "word": "BATTRE"
+    },
+    {
+        "word": "CACHER"
+    },
+    {
+        "word": "CRACHER"
+    },
+    {
+        "word": "CREUSER"
+    },
+    {
+        "word": "CRIER"
+    },
+    {
+        "word": "DEGONFLER"
+    },
+    {
+        "word": "DISPUTE"
+    },
+    {
+        "word": "EMPECHER"
+    },
+    {
+        "word": "GALOPER"
+    },
+    {
+        "word": "HURLER"
+    },
+    {
+        "word": "JONGLER"
+    },
+    {
+        "word": "LANCER"
+    },
+    {
+        "word": "PEDALER"
+    },
+    {
+        "word": "PLAINDRE"
+    },
+    {
+        "word": "PLEURER"
+    },
+    {
+        "word": "POURSUIVRE"
+    },
+    {
+        "word": "PROTEGER"
+    },
+    {
+        "word": "SAIGNER"
+    },
+    {
+        "word": "SALIR"
+    },
+    {
+        "word": "SIFFLER"
+    },
+    {
+        "word": "SURVEILLER"
+    },
+    {
+        "word": "TRAINER"
+    },
+    {
+        "word": "TROUVER"
+    },
+    {
+        "word": "FOU"
+    },
+    {
+        "word": "MECHANT"
+    }
+]

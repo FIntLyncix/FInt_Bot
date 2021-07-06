@@ -1,0 +1,8 @@
+{
+  "name": "channel",
+  "description": "Sert a créé, modifié ou supprimé un channel.",
+  "usage": "",
+  "category": "serveur",
+  "permission": ["MANAGE_CHANNELS"],
+  "aliases": []
+}

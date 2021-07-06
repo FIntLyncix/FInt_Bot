@@ -1,0 +1,9 @@
+{
+  "name": "report",
+  "description": "Cette commande permet de contacter le développeur de bot pour signaler un bug ou faire une demande d'amélioration.",
+  "usage": "",
+  "category": "bot",
+  "permission": [],
+  "aliases": ["bug", "sug"]
+}
+

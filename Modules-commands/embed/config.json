@@ -1,0 +1,8 @@
+{
+  "name": "embed",
+  "description": "Cette commande permée de créé un embed.",
+  "usage": "",
+  "category": "msg",
+  "permission": [],
+  "aliases": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kick",
+  "description": "Sert à kick un membre.",
+  "usage": "<Mention>",
+  "category": "serveur",
+  "permission": ["KICK_MEMBERS"],
+  "aliases": []
+}

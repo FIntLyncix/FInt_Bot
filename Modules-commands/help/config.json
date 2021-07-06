@@ -1,0 +1,8 @@
+{
+  "name": "help",
+  "description": "Cette commande permée de voir tous les commandes ou une seule si mentionnée.",
+  "usage": "[commande [description | usage | permission | aliases ]]",
+  "category": "info",
+  "permission": [],
+  "aliases": []
+}

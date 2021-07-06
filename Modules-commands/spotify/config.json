@@ -1,0 +1,9 @@
+{
+  "name": "spotify",
+  "description": "Envoie l'activité Spotify d'un utilisateur.",
+  "usage": "[Mention]",
+  "category": "special",
+  "permission": [],
+  "aliases": []
+}
+

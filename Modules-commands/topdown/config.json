@@ -1,0 +1,13 @@
+{
+  "name": "topdown",
+  "description": "Jeu en dev...",
+  "usage": "",
+  "category": "dev",
+  "permission": [],
+  "aliases": [
+    "game",
+    "jeux",
+    "jeu",
+    "top-down"
+  ]
+}

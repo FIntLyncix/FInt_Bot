@@ -1,0 +1,44 @@
+[
+    {
+        "type": [
+            "general",
+            "Général"
+        ]
+    },
+    {
+        "type": [
+            "special",
+            "Spéciale"
+        ]
+    },
+    {
+        "type": [
+            "serveur",
+            "Serveur"
+        ]
+    },
+    {
+        "type": [
+            "game",
+            "Jeu"
+        ]
+    },
+    {
+        "type": [
+            "msg",
+            "Message spécial"
+        ]
+    },
+    {
+        "type": [
+            "bot",
+            "Bot"
+        ]
+    },
+    {
+        "type": [
+            "dev",
+            "Dev"
+        ]
+    }
+]

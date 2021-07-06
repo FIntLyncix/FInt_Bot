@@ -1,0 +1,8 @@
+{
+  "name": "category",
+  "description": "Sert a créé, modifié ou supprimé une catégorie.",
+  "usage": "",
+  "category": "serveur",
+  "permission": ["MANAGE_CHANNELS"],
+  "aliases": []
+}

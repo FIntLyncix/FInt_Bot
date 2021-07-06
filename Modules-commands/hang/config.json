@@ -1,0 +1,8 @@
+{
+  "name": "hang",
+  "description": "Cette commande permée de jouer au pendu.",
+  "usage": "",
+  "category": "game",
+  "permission": [],
+  "aliases": []
+}

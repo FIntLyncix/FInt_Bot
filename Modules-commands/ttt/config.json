@@ -1,0 +1,14 @@
+{
+  "name": "ttt",
+  "description": "Cette commande permée de jouer au jeu du tic-tac-toe (morpion).",
+  "usage": "",
+  "category": "game",
+  "permission": [],
+  "aliases": [
+    "game",
+    "jeux",
+    "jeu",
+    "tic-tac-toe",
+    "morpion"
+  ]
+}

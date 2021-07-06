@@ -1,0 +1,9 @@
+{
+  "name": "ping",
+  "description": "Cette commande permée de voir si le Bot est en ligne est de voir sa latence.",
+  "usage": "",
+  "category": "bot",
+  "permission": [],
+  "aliases": []
+}
+

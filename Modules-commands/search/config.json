@@ -1,0 +1,9 @@
+{
+  "name": "search",
+  "description": "Cette commande permée de rechercher un utilisateur de discord.",
+  "usage": "<mention | member | id>",
+  "category": "general",
+  "permission": [],
+  "aliases": ["recherche", "member", "membre", "members", "membres", "commande", "commands", "commandes", "command"]
+}
+

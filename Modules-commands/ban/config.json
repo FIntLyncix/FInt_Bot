@@ -1,0 +1,8 @@
+{
+  "name": "ban",
+  "description": "Sert à bannir un membre.",
+  "usage": "<Mention>",
+  "category": "serveur",
+  "permission": ["BAN_MEMBERS"],
+  "aliases": []
+}

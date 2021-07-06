@@ -1,0 +1,8 @@
+{
+  "name": "stats",
+  "description": "Cette commande permée d'avoir des info sur vous ou un membre mentionné ou un serveur.",
+  "usage": "<['user' [Mention]], 'serveur'>",
+  "category": "info",
+  "permission": [],
+  "aliases": []
+}

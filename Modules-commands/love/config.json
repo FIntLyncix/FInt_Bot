@@ -1,0 +1,12 @@
+{
+  "name": "love",
+  "description": "Calcule l'affinité d'amour que vous avez pour une autre personne.",
+  "usage": "[mention | id | username]",
+  "category": "game",
+  "permission": [],
+  "aliases": [
+    "game",
+    "jeux",
+    "jeu"
+  ]
+}

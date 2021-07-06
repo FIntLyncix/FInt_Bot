@@ -1,0 +1,9 @@
+{
+  "name": "meteo",
+  "description": "Cette commande permée de voir la meteo.",
+  "usage": "<ville>",
+  "category": "special",
+  "permission": [],
+  "aliases": []
+}
+
